@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AlexanderRMolinari/Space%20Game%20-%20web-%20pipeline/_apis/build/status/alexmolinari.mslearn-tailspin-spacegame-web-1?branchName=master)](https://dev.azure.com/AlexanderRMolinari/Space%20Game%20-%20web-%20pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
